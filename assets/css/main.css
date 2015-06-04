@@ -340,7 +340,7 @@
 	#header {
 		-moz-animation: header 1s 0.25s forwards;
 		-webkit-animation: header 1s 0.25s forwards;
-		-ms-animation: header 1s 0.25s forwards;
+		-ms-animation: header 7s 0.25s forwards;
 		animation: header 1s 0.25s forwards;
 		-moz-backface-visibility: hidden;
 		-webkit-backface-visibility: hidden;
