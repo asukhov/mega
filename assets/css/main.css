@@ -159,7 +159,7 @@
 	#wrapper {
 		-moz-animation: wrapper 0s forwards;
 		-webkit-animation: wrapper 0s forwards;
-		-ms-animation: wrapper 0s forwards;
+		-ms-animation: wrapper 7s forwards;
 		animation: wrapper 0s forwards;
 		height: 100%;
 		left: 0;
